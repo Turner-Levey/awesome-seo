@@ -5,6 +5,7 @@
 ---
 
 ## **Analysis and Site Auditing**
+- [IndexNow Changed URL Payload Builder](https://indexnow-payload-builder.vercel.app/) - Browser-only utility for preparing IndexNow changed-URL payloads, curl commands, and URL-submission checklists.
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits.
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools.
